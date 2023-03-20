@@ -1,0 +1,13 @@
+th, td, h5, .btn {
+	color: #ECEAE9;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+body {
+	background-color: #E5E5E5;
+}
